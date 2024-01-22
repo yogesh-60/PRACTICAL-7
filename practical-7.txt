@@ -1,0 +1,2 @@
+madam
+it is a palindrome
